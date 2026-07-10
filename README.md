@@ -25,8 +25,11 @@ como base evidenciada estadísticamente para decisiones de retención.
 
 ## 🗂️ Fuente de los datos
 
-- **Origen:** [completa: dataset público / simulado / de curso]
-- **Periodo analizado:** [ej. enero 2024 - junio 2024]
+- **Origen:**
+https://practicum-content.s3.amazonaws.com/datasets/rappiplus_orders_raw.csv
+https://practicum-content.s3.amazonaws.com/datasets/rappiplus_catalog.csv
+https://practicum-content.s3.amazonaws.com/datasets/rappiplus_marketing_spend.csv
+- **Periodo analizado:** Enero 2025 - Junio 2025
 - **Variables clave:** usuario, etapa del funnel, timestamp, monto de la orden, método de pago, etc.
 
 ## 🛠️ Herramientas utilizadas
@@ -95,4 +98,4 @@ Para ver el dashboard, abre `dashboard/retencion_rentabilidad.pbix` con Power BI
 ## 👤 Autor
 
 **Tu Nombre**
-[LinkedIn](https://linkedin.com/in/tu-usuario) · [Portafolio](https://tu-portafolio.com)
+[LinkedIn](www.linkedin.com/in/nardeth-martinez-rodriguez) · [Portafolio](https://nardusmar.github.io/)

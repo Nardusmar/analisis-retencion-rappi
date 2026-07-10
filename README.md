@@ -13,8 +13,8 @@ enfocado en entender por qué los usuarios abandonan el proceso de compra (funne
 tiene esto en la rentabilidad del negocio. El resultado es un dashboard interactivo que sirvió
 como base evidenciada estadísticamente para decisiones de retención.
 
-> **Nota:** Este es un proyecto de práctica/portafolio. [Aquí aclara si usaste datos públicos,
-> simulados, o un dataset de un curso — reemplaza esta nota con el detalle real].
+> **Nota:** Este es un proyecto de práctica/portafolio. Para este análisis utilizaremos la tabla events, que se encuentra almacenada en una base de datos.
+⚙️ Importante: La conexión a esta base de datos se realizará desde el Jupyter Notebook.
 
 ## 🎯 Objetivos
 

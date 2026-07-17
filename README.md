@@ -97,5 +97,7 @@ Para ver el dashboard, abre `dashboard/retencion_rentabilidad.pbix` con Power BI
 
 ## 👤 Autor
 
-**Tu Nombre**
+**Martha Nardeth Martínez**
+
+
 [LinkedIn](www.linkedin.com/in/nardeth-martinez-rodriguez) · [Portafolio](https://nardusmar.github.io/)

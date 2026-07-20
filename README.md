@@ -14,7 +14,7 @@ enfocado en entender por qué los usuarios abandonan el proceso de compra (funne
 tiene esto en la rentabilidad del negocio. El resultado es un dashboard interactivo que sirvió
 como base evidenciada estadísticamente para decisiones de retención.
 
-> **Nota:** Este es un proyecto de práctica/portafolio. Para este análisis utilizaremos la tabla events, que se encuentra almacenada en una base de datos.
+> **Nota:** Este es un proyecto de portafolio. Para este análisis utilizaremos la tabla events, que se encuentra almacenada en una base de datos.
 ⚙️ Importante: La conexión a esta base de datos se realizará desde el Jupyter Notebook.
 
 ## 🎯 Objetivos
@@ -52,13 +52,12 @@ https://practicum-content.s3.amazonaws.com/datasets/rappiplus_marketing_spend.cs
 
 ![Funnel de conversión](img/funnel_conversion.png)
 
-- 🔑 El **checkout** se identificó como el punto crítico de mayor abandono dentro del funnel
-- 🔑 El cambio de checkout probado se validó **con evidencia estadística**, confirmando que el
-  aumento/caída en la tasa de abandono no era producto del azar
-- 🔑 El dashboard permitió cuantificar el impacto de este abandono en la rentabilidad general
 
-*(Reemplaza estos puntos con tus números reales: ej. "el 42% de los usuarios abandonaban en
-checkout" o "el nuevo diseño redujo el abandono en 8 puntos porcentuales, p-value < 0.05")*
+-🔑 La retención es muy estable entre semanas — los usuarios que regresan en semana 1 tienden a seguir activos en semana 2 y 3. No hay caída drástica.
+-🔑 Solo ~42% de usuarios regresa — más de la mitad de los usuarios no vuelve después de registrarse. Hay oportunidad de mejora con estrategias de reactivación (emails, notificaciones, ofertas).
+-🔑 No hay diferencia significativa entre cohortes — el producto se comporta igual mes a mes, lo que indica consistencia pero también que no ha habido mejoras que aumenten la retención.
+-🔑 Aunque el grupo de tratamiento muestra una tasa de conversión ligeramente mayor (16.29% vs 15.69%), la diferencia de 0.60 puntos porcentuales NO es estadísticamente significativa. Con un p-valor de 0.4319, hay un 43% de probabilidad de que esta diferencia sea simplemente por azar, muy por encima del 5% permitido.
+-🔑 Cuentan con ingresos totatles por 9.64 miill. con una utilidad de 2.93 mill.
 
 ## 💡 Recomendaciones de negocio
 
